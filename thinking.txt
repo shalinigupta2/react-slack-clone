@@ -12,6 +12,7 @@
     * messages
 4. UI Components
     * React is a simple Java UI library.
+    * Slack Component
     * Side bar
         * ListOfChannel
         * ListOfDirectMessage
