@@ -1,0 +1,23 @@
+1. Wireframing - Draw a rough sketch of what you are actually going to do.
+2. Functionality
+    * Sign in
+    * Sign up
+    * Create a channel
+    * Send message in a channel
+    * Join a channel
+    * Search a channel
+3. Data
+    * Users
+    * Channels
+    * messages
+4. UI Components
+    * React is a simple Java UI library.
+    * Side bar
+        * ListOfChannel
+        * ListOfDirectMessage
+    * Main container
+        * Header
+        * Message
+        * CreateMessage
+    * SignIn
+    * SignUp
