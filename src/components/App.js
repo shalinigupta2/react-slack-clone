@@ -6,9 +6,6 @@ function Home() {
   return <div> Home</div>;
 }
 
-function Some() {
-  return <div> Some</div>;
-}
 class App extends Component {
   state = {
     counter: 1
